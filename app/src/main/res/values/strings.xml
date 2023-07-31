@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GroceryListApp</string>
+    <string-array name="color_names">
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Yellow</item>
+        <item>Purple</item>
+        <item>Orange</item>
+    </string-array>
+    <string name="color_prompt">Select Color</string>
+    <string name="delete">delete</string>
+    <string name="clear">clear</string>
+    <string name="add">add</string>
+    <string name="enter_item">ENTER ITEM</string>
+</resources>
